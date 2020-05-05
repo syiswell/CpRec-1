@@ -34,6 +34,13 @@ https://github.com/fajieyuan/nextitnet code that including Caser and GRURec
 https://github.com/graytowne/caser code  
 
 # CpRec
-A Generic Network Compression Framework for Sequential Recommender Systems  
-
+A Generic Network Compression Framework for Sequential Recommender Systems
+```
+@article{sun2020generic,
+  title={A Generic Network Compression Framework for Sequential Recommender Systems},
+  author={Sun, Yang and Yuan, Fajie and Yang, Ming and Wei, Guoao and Zhao, Zhou and Liu, Duo},
+  journal={arXiv preprint arXiv:2004.13139},
+  year={2020}
+}
+```
 Please cite this paper if you find our code is useful.  
